@@ -1,0 +1,592 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>El Mehdi LAIDOUNI</title><description>El Mehdi is an entrepreneur focus on Mobile. He help businesses generate more traffic, leads, and sales from their mobile marketing and advertising. Connect with him on Twitter.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Thu, 08 Dec 2016 11:23:11 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>iconKit l'outils indispensable pour créer vos icônes</title><description>&lt;p&gt;Dans cette vidéo on va voir comment installer et utiliser l'application iconKit pour crée des icons pour vos applications mobile rapidement sous OS X El Capitan ou macOS Sierra:&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UV9MlD_B-dk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</description><link>http://localhost:2368/iconkit-loutils-indispensable-pour-creer-vos-icones/</link><guid isPermaLink="false">3f309bff-0f42-481c-9ea3-7a13eb2a04e6</guid><category>iconKit</category><dc:creator>El Mehdi LAIDOUNI</dc:creator><pubDate>Fri, 02 Dec 2016 21:30:15 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/12/iconkit.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/12/iconkit.png" alt="iconKit l'outils indispensable pour créer vos icônes"&gt;&lt;p&gt;Dans cette vidéo on va voir comment installer et utiliser l'application iconKit pour crée des icons pour vos applications mobile rapidement sous OS X El Capitan ou macOS Sierra:&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UV9MlD_B-dk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>Comment afficher les fichiers cachés sous MacOS</title><description>Dans cette vidéo on va voir comment afficher les fichiers cachés sous OS X El Capitan ou macOS Sierra</description><link>http://localhost:2368/comment-afficher-les-fichiers-caches-sous-macos/</link><guid isPermaLink="false">23f8a6b9-600d-4ce1-8a5c-e64bf413c6c6</guid><category>macos</category><dc:creator>El Mehdi LAIDOUNI</dc:creator><pubDate>Fri, 02 Dec 2016 21:16:52 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/12/hidden.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/12/hidden.png" alt="Comment afficher les fichiers cachés sous MacOS"&gt;&lt;p&gt;Dans cette vidéo on va voir comment afficher les fichiers cachés sous OS X El Capitan ou macOS Sierra 🖥&lt;/p&gt;
+
+&lt;p&gt;Dans cette vidéo est destinée aux personnes qui souhaitent commencer le développement des applications mobile sous macOS:&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ2WYDYGJc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Afficher les fichiers cachés:  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;defaults write com.apple.finder AppleShowAllFiles YES  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Masquer les fichiers cachés:  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;defaults write com.apple.finder AppleShowAllFiles NO  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Pour Redémarrer votre Finder:  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;killall Finder  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ElMehdi &lt;a href="https://twitter.com/ElMehdiMobi"&gt;@ElMehdiMobi&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Comment Installer Windows XP sous MacOS</title><description>Dans cette vidéo on va voir comment installer Windows XP sous OS X El Capitan ou macOS Sierra 🖥</description><link>http://localhost:2368/comment-installer-windows-xp-sous-macos/</link><guid isPermaLink="false">e0fb7182-945c-4646-8906-c5fcdf14f90a</guid><category>macos</category><dc:creator>El Mehdi LAIDOUNI</dc:creator><pubDate>Fri, 02 Dec 2016 21:04:28 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/12/windowsxp.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/12/windowsxp.png" alt="Comment Installer Windows XP sous MacOS"&gt;&lt;p&gt;Dans cette vidéo on va voir comment installer Windows XP sous OS X El Capitan ou macOS Sierra 🖥&lt;/p&gt;
+
+&lt;p&gt;Dans cette vidéo est destinée aux personnes qui souhaitent commencer le développement des applications mobile sous macOS:&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VoAKCsMbW34" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ElMehdi &lt;a href="https://twitter.com/ElMehdiMobi"&gt;@ElMehdiMobi&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Comment Installer Windows 8 sous MacOS</title><description>&lt;p&gt;Dans cette vidéo on va voir comment installer windows 8 sous OS X El Capitan ou macOS Sierra 🖥&lt;/p&gt;
+
+&lt;p&gt;Dans cette vidéo est destinée aux personnes qui souhaitent commencer le développement des applications mobile sous macOS :&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kz0V5207Fes" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ElMehdi &lt;a href="https://twitter.com/ElMehdiMobi"&gt;@ElMehdiMobi&lt;/a&gt;&lt;/p&gt;</description><link>http://localhost:2368/comment-installer-windows-8-sous-macos/</link><guid isPermaLink="false">1be7b292-4b7c-49b1-92c0-473f25583d18</guid><category>macos</category><dc:creator>El Mehdi LAIDOUNI</dc:creator><pubDate>Fri, 02 Dec 2016 21:01:35 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/12/Installation-Windows8-sous-mac.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/12/Installation-Windows8-sous-mac.png" alt="Comment Installer Windows 8 sous MacOS"&gt;&lt;p&gt;Dans cette vidéo on va voir comment installer windows 8 sous OS X El Capitan ou macOS Sierra 🖥&lt;/p&gt;
+
+&lt;p&gt;Dans cette vidéo est destinée aux personnes qui souhaitent commencer le développement des applications mobile sous macOS :&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kz0V5207Fes" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ElMehdi &lt;a href="https://twitter.com/ElMehdiMobi"&gt;@ElMehdiMobi&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>C'est quoi FB Messenger Bot</title><description>&lt;p&gt;Le bot conversationnel, est un logiciel informatique qui réalise des conversations automatisées. Un bot Facebook, c’est la même chose, mais sur un réseau social.&lt;/p&gt;
+
+&lt;p&gt;CNN s’est courageusement mis en position d’avant-gardiste dans l’adoption plus que timide dans le milieu de la presse, qui vous envoie un&lt;/p&gt;</description><link>http://localhost:2368/cest-quoi-fb-messenger-bot/</link><guid isPermaLink="false">626403b7-a3f4-4251-afc7-2885c760c522</guid><category>Bot</category><category>Facebook</category><category>Messenger</category><dc:creator>El Mehdi LAIDOUNI</dc:creator><pubDate>Fri, 02 Dec 2016 20:49:50 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/12/cestquoifb-meseg.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/12/cestquoifb-meseg.png" alt="C'est quoi FB Messenger Bot"&gt;&lt;p&gt;Le bot conversationnel, est un logiciel informatique qui réalise des conversations automatisées. Un bot Facebook, c’est la même chose, mais sur un réseau social.&lt;/p&gt;
+
+&lt;p&gt;CNN s’est courageusement mis en position d’avant-gardiste dans l’adoption plus que timide dans le milieu de la presse, qui vous envoie un briefing par message chaque matin comme une newsletter… &lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/KRGgdMz.jpg" alt="C'est quoi FB Messenger Bot"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pourquoi utiliser un bot Facebook?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Réponse directe: Gagner le temps perdu à répondre aux questions par Messenger !&lt;/p&gt;
+
+&lt;p&gt;Dés que nous aurons toutes les informations nécessaires en ce qui concerne votre activité (site web, services, produits, news etc...) &lt;/p&gt;
+
+&lt;p&gt;Nous programmons votre bot de façon questions/réponses simples et basiques d'autant plus qu'il pourra guidez vos clients vers votre site web pour des informations complémentaire et consultation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voici quelques bots:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/MMzIgaU.jpg" alt="C'est quoi FB Messenger Bot"&gt;
+Poncho envoie des prévisions météo amusantes. Essayez-le : &lt;br&gt;
+&lt;a href="https://m.me/hiponcho"&gt;https://m.me/hiponcho&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/rzB2gXV.jpg" alt="C'est quoi FB Messenger Bot"&gt;
+CNN offre les derniers titres et la couverture de nouvelles organisée. Essayez-le: &lt;br&gt;
+&lt;a href="https://m.me/cnn"&gt;https://m.me/cnn&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Google vient de mettre à jour sa plateforme google site</title><description>Google vient de mettre à jour sa plateforme google site, un outil idéal pour créer des sites web sans connaissances en programmation ou conception</description><link>http://localhost:2368/google-vient-de-mettre-a-jour-sa-plateforme-google-site/</link><guid isPermaLink="false">42231ab5-a979-4f5c-a992-7dd9b221a825</guid><category>Web Design</category><category>Tools</category><dc:creator>El Mehdi LAIDOUNI</dc:creator><pubDate>Fri, 02 Dec 2016 20:26:28 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/12/google-sites-new.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/12/google-sites-new.jpg" alt="Google vient de mettre à jour sa plateforme google site"&gt;&lt;p&gt;Google vient de mettre à jour sa plateforme google site, un outil idéal pour créer des sites web sans connaissances en programmation ou conception et accéder facilement à l'ensemble de vos contenus dans Google, qu'il s'agisse d'un dossier Drive, d'un fichier Docs ou même d'un agenda partagé&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Allez sur le site:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://sites.google.com/new/"&gt;https://sites.google.com/new/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15178953_1618787331758206_8371177254835344633_n.jpg?oh=b0d7f8f2d6e8edbbae4c466afb399ac3&amp;amp;oe=58F655D6" alt="Google vient de mettre à jour sa plateforme google site"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voir la vidéo de présentation:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hG-vGjKMvZE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>Comment Obtenir une bancaire Visa Card Gratuit pour acheter ou dépenser mes Bitcoins</title><description>Dans ce tutorial je vais vous montrer comment obtenir gratuitement une carte bancaire Visa Card pour acheter avec ou dépenser mes Bitcoins</description><link>http://localhost:2368/comment-obtenir-une-bancaire-visa-card-gratuit-pour-acheter-ou-depenser-mes-bitcoins/</link><guid isPermaLink="false">b662ca9a-c48d-459d-ad41-268253b7fbc1</guid><category>bitcoin paypal</category><category>bitcoin visa card</category><dc:creator>El Mehdi</dc:creator><pubDate>Tue, 19 Jul 2016 18:55:42 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;eaucoup de gens d'entre vous qui utilise probablement le bit coin pour le fun, mais quand on passe aux choses sérieusement on est toujours confronté par une problématique c'est qu'on est obligé de changer notre argent pour des bits via des plates-formes hors que ces es-formes nous facturent des frais, je vous donne un exemple:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Par X: vous vouliez acheter pour $20 en bit coin, en réalité vous allez recevoir que $15 &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;c'est pour cela on a vu récemment des banques qui proposent des wallets bloc chaine lier directement avec une carte bancaire du type &lt;strong&gt;Mastercard&lt;/strong&gt; ou bien &lt;strong&gt;Visa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;c'est carte bancaire vous permet facilement de payer et retirer vos bitcoin directement depuis un distributeur ou dans un de vos magasins préférer mais aussi un point fort que j'ai trouvé personnellement très utile c'est que vous pouvez directement acheter vos bits coin avec Paypal directement depuis votre carte bancaire...&lt;/p&gt;
+
+&lt;p&gt;Dans ce tutorial je vais vous montrer comment obtenir une carte bancaire de type visa jusqu'a votre porte et bien sûr &lt;strong&gt;gratuitement&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Première étape:&lt;/strong&gt;
+on va aller sur ce &lt;a href="https://adbit.co/?r=mJe6VrUdYTdAliZQhbvpaOyn2oSIju"&gt;(site)&lt;/a&gt; ensuite on va cree notre compte, une fois vous avez activé votre compte en passe à l'étape suivante&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deuxième étape:&lt;/strong&gt;
+maintenant a demandé notre coupon pour la création de notre carte bancaire, donc je vous donne rendez-vous sur ce &lt;a href="http://blog.adbit.co/"&gt;(site)&lt;/a&gt; ensuite on va remplir le formulaire avec vos données pour que vous recevez votre coupon gratuitement&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Troisième Étape:&lt;/strong&gt;
+Maintenant on va cree notre carte bancaire à l'aide de notre coupon, pour me faire je vous donne rendez-vous sur &lt;a href="https://anoon.co/"&gt;(site)&lt;/a&gt; ensuite suite lors de la demande de votre carte vous mettez votre coupon pour recevoir votre carte totalement gratuitement&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://i.imgur.com/SqCcmDX.png" alt="alt"&gt;&lt;/p&gt;
+
+&lt;p&gt;Au final j'espère que ce tutorial vous a plu, la gratuité de cette méthode est de durée limiter, donc partager l'info avec vos amies et vos proches et je vous donne rendez-vous dans une future tutorial&lt;/p&gt;
+
+&lt;p&gt;PS: Je viens de recevoir sur mon compte un bonus de bienvennue d'une valeur de 0,005 BTC &lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://i.imgur.com/RbhtcF0.png" alt="alt"&gt;&lt;/p&gt;
+
+&lt;p&gt;Hurry up ;)&lt;/p&gt;</content:encoded></item><item><title>Préparer macOS pour le Développement des Apps Mobile</title><description>&lt;p&gt;Cette formation d'un peu plus d'une heure vous permettra de prendre en main votre macOS et le préparer pour le développement des applications mobiles.&lt;/p&gt;
+
+&lt;p&gt;Nous verrons comment configurer votre nouveau macOS pour le développement des applications (Android,iOS &amp;amp; Hybride Apps)&lt;/p&gt;
+
+&lt;p&gt;Cette formation est destinée aux personnes qui souhaitent commencer&lt;/p&gt;</description><link>http://localhost:2368/preparer-macos-pour-le-developpement-des-apps-mobile/</link><guid isPermaLink="false">ae5d5c8c-1b2d-41f8-aba4-04d409f67744</guid><category>apps</category><category>ios</category><category>android</category><category>hybride</category><category>ruby on rails</category><category>mobile</category><category>preparer</category><category>macos</category><category>pour</category><category>développement</category><dc:creator>El Mehdi</dc:creator><pubDate>Fri, 08 Jul 2016 13:14:17 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/udemy-course-image-dimensions-Re-cupe-re--1.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/udemy-course-image-dimensions-Re-cupe-re--1.png" alt="Préparer macOS pour le Développement des Apps Mobile"&gt;&lt;p&gt;Cette formation d'un peu plus d'une heure vous permettra de prendre en main votre macOS et le préparer pour le développement des applications mobiles.&lt;/p&gt;
+
+&lt;p&gt;Nous verrons comment configurer votre nouveau macOS pour le développement des applications (Android,iOS &amp;amp; Hybride Apps)&lt;/p&gt;
+
+&lt;p&gt;Cette formation est destinée aux personnes qui souhaitent commencer le développement des applications mobile sous macOS&lt;/p&gt;
+
+&lt;h3 id="ausommaire"&gt;Au sommaire:&lt;/h3&gt;
+
+&lt;p&gt;Installation de iTerm2 &lt;br&gt;
+Installation de Chrome &lt;br&gt;
+Installation de Alfred &lt;br&gt;
+Installation de Command-line Tools &lt;br&gt;
+Installation de Java JDK, Eclipse &amp;amp; Android Studio &lt;br&gt;
+Installation de Genymotion &lt;br&gt;
+Installation de Homebrew &lt;br&gt;
+Installation de Git &lt;br&gt;
+Installation de Cordova &amp;amp; Ionic &lt;br&gt;
+Installation de Xcode &lt;br&gt;
+Installation de MAMP &lt;br&gt;
+Installation de BuildBox &lt;br&gt;
+Installation de Sketch &lt;br&gt;
+Installation de Windows 8 &lt;br&gt;
+Installation de Windows XP &lt;br&gt;
+Installation de Linux Ubuntu &lt;br&gt;
+Installation de Ruby On Rails &lt;br&gt;
+Installation de Wordpress Local&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://skl.sh/29qdMH0"&gt;Préparer macOS pour le Développement des Apps Mobile&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Micro paiement Bitcoin Sponsorisé pour Développeurs &amp; Webmasters</title><description>&lt;p&gt;Ce ci est une API très simple en JSON RPC 2 composés seulement de deux appels. Elle vous permet de proposer des solutions de paiement sponsorisées pour monétiser l'accès à vos services et contenus sur Internet, application et téléphones mobiles, pour des Jeux, des articles, des vidéos, donation, contenus payants,&lt;/p&gt;</description><link>http://localhost:2368/micro-paiement-sponsorise-pour-developpeurs/</link><guid isPermaLink="false">32a04098-8282-4022-bbb9-848d110dc735</guid><category>Micro paiement</category><category>bitcoin micro paiement</category><dc:creator>El Mehdi</dc:creator><pubDate>Mon, 16 May 2016 10:53:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/05/ip-bitcointalk-1.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/05/ip-bitcointalk-1.jpg" alt="Micro paiement Bitcoin Sponsorisé pour Développeurs &amp; Webmasters"&gt;&lt;p&gt;Ce ci est une API très simple en JSON RPC 2 composés seulement de deux appels. Elle vous permet de proposer des solutions de paiement sponsorisées pour monétiser l'accès à vos services et contenus sur Internet, application et téléphones mobiles, pour des Jeux, des articles, des vidéos, donation, contenus payants, recharge du compte du client, etc.&lt;/p&gt;
+
+&lt;h2 id="totalementgratuitpourvotreclient"&gt;Totalement gratuit pour votre client.&lt;/h2&gt;
+
+&lt;p&gt;Votre client visite ibtc.cash, et récupère un code d’une valeur en satoshi. Il ne vous reste plus qu’a associer ce code a votre adresse bitcoin par un simple appel JSON RPC.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Sans inscription ou approbation du compte, vous pouvez l’utiliser immédiatement. Elle peut être intégrée dans les minutes à venir dans votre système.  &lt;/li&gt;
+&lt;li&gt;Les retraits, son automatique une fois par jour. Ils se passent en bitcoin, et la somme minimale d’envois est de 5 centimes (10 000 satoshis)  &lt;/li&gt;
+&lt;li&gt;Votre client n’a pas besoin de posséder ou même de connaître le bitcoin pour effectuer un paiement sur votre plateforme. Tout ce qu’il lui faut, est le code récupéré sur ibtc.cash.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id="utilisation"&gt;Utilisation&lt;/h2&gt;
+
+&lt;p&gt;Le premier appel prend deux paramètres, votre adresse bitcoin et le code du client qu’il a récupéré sur ibtc.cash. Cet appel va associer son code à votre adresse bitcoin. &lt;br&gt;
+Le second appel prend juste votre adresse bitcoin en paramètre, est vous retourne toutes les informations à propos d’elle, comme les sommes due, les sommes déjà payé, les codes utiliser, etc.&lt;/p&gt;
+
+&lt;p&gt;Dans le repository Github ce trouve des exemples d’utilisation en php et jQuery. Si vous utiliser un autre langage de programmation, vous aurait aucun mal a trouver un JSON RPC 2 CLIENT ici.&lt;/p&gt;
+
+&lt;p&gt;Pour voir le fonctionnement de l’API en cas réel, vous pouvez visiter la page « bitcoin gratuit » dans le portefeuille mircoin.com.&lt;/p&gt;
+
+&lt;p&gt;Documentation &lt;a href="http://ibtci.github.io"&gt;ibtci.github.io&lt;/a&gt; &lt;br&gt;
+Repository Github &lt;a href="http://github.com/ibtci/api"&gt;github.com/ibtci/api&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Qu'est-ce que c'est le minage de bitcoin?</title><description>Le minage de bitcoin est une forme de commerce très compétitif.  À moins que vous fassiez du minage uniquement pour le plaisir..</description><link>http://localhost:2368/quest-ce-que-cest-le-minage-de-bitcoin/</link><guid isPermaLink="false">c0d3b164-b388-4338-9e38-552c105c9caa</guid><category>bitcoin mining</category><category>bitcoin miner</category><category>bitcoin mining pool</category><category>bitcoin miner hardware</category><category>bitcoin mining equipment</category><dc:creator>El Mehdi</dc:creator><pubDate>Mon, 16 May 2016 09:28:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/05/maxresdefault.png" medium="image"/><content:encoded>&lt;h2 id="avantdecommencer"&gt;Avant de commencer...&lt;/h2&gt;
+
+&lt;img src="http://localhost:2368/content/images/2016/05/maxresdefault.png" alt="Qu'est-ce que c'est le minage de bitcoin?"&gt;&lt;p&gt;Avant d'aller plus loin, vous devez savoir que &lt;strong&gt;la plupart des utilisateurs du bitcoin ne font pas de minage !&lt;/strong&gt; &lt;br&gt;
+Le minage de bitcoin est une forme de commerce très compétitif. &lt;br&gt;
+À moins que vous fassiez du minage uniquement pour le plaisir, vous devez trouver le moyen de le faire de façon très efficace afin de vous permettre de générer des profits..&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez obtenir des bitcoins sur la base d'une puissance de calcul précise mais que vous ne voulez pas vous occuper d'acquérir le matériel vous-même, vous pouvez acheter un contrat de minage.&lt;/p&gt;
+
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&lt;em&gt;Video courtesy of: www.bitcoinmining.com&lt;/em&gt; &lt;/p&gt;
+
+&lt;h2 id="dtailstechniques"&gt;Détails techniques :&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://md1.libe.com/photo/561487-un-tas-de-bitcoin.jpg" alt="Qu'est-ce que c'est le minage de bitcoin?"&gt;&lt;/p&gt;
+
+&lt;p&gt;Durant le minage, votre ordinateur effectue des hashs cryptographiques (deux SHA256 successifs) sur ce qu'on appelle une &lt;strong&gt;entête de bloc.&lt;/strong&gt;  Pour chaque nouveau hash, le logiciel de minage utilise un nombre aléatoire différent qu'on appelle le &lt;strong&gt;nonce.&lt;/strong&gt;  Selon le contenu du bloc et la valeur du nonce, le hash produit aura une forme similaire à l'exemple suivant:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;93ef6f358fbb998c60802496863052290d4c63735b7fe5bdaac821de96a53a9a&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Ce hash peut être converti dans un très long nombre. (Il s'agit d'un nombre hexadécimal, ce qui signifie que les lettres A-F sont les nombres 10-15). Afin de rendre le minage difficile, il y a ce qu'on appelle la difficulté cible. Afin de créer un bloc valide, un mineur doit trouver un hash qui est inférieur à la difficulté cible. Par exemple, si la difficulté est de    &lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;1000000000000000000000000000000000000000000000000000000000000000&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;n'importe quel nombre qui débute par un zéro serait accepté et considéré comme inférieur à la cible. Exemple :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;0787a6fd6e0782f7f8058fbef45f5c17fe89086ad4e78a1520d06505acb4522f&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Si nous diminuons la cible à &lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;0100000000000000000000000000000000000000000000000000000000000000&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;nous avons maintenant besoin d'un nombre débutant par deux zéros :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;00db27957bd0ba06a5af9e6c81226d74312a7028cf9a08fa125e49f15cae4979&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Parce que la cible est un nombre encombrant avec beaucoup de chiffres, un nombre plus simple est généralement utilisé pour exprimer la cible actuelle. Ce nombre est appelé la difficulté de minage. La difficulté de minage se calcule en comparant à quel point il est difficile de générer un bloc comparativement au premier bloc créé. Ce qui signifie qu'une difficulté de 70000 équivaut à 70000 fois plus d'efforts qu'il en fallait pour &lt;a href="https://en.bitcoin.it/wiki/Satoshi_Nakamoto"&gt;Satoshi Nakamoto&lt;/a&gt; pour générer le premier bloc. A l'époque où le minage était beaucoup plus lent et mal optimisé.&lt;/p&gt;
+
+&lt;h2 id="difficult"&gt;Difficulté :&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://hashingit.com/images/articles/20140610/6m-hash-rate-linear.png" alt="Qu'est-ce que c'est le minage de bitcoin?"&gt;&lt;/p&gt;
+
+&lt;p&gt;Créer des bitcoins nécessite de sans cesse trouver de nouveaux blocs (transactions en attente de validation) dans la chaîne du réseau bitcoin. Cette recherche s'effectue au moyen d'ordinateurs puissants capables de résoudre des calculs complexes (algorithmes). Plus il existe d'ordinateurs connectés au réseau bitcoin et plus ils sont rapides, plus la difficulté est augmentée par le protocole bitcoin, afin qu'il ne soit pas trop facile de créer de la monnaie et que le rythme moyen reste constant.&lt;/p&gt;
+
+&lt;h2 id="matriel"&gt;Matériel :&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://media.coindesk.com/2015/07/hardware-circuit.jpg" alt="Qu'est-ce que c'est le minage de bitcoin?"&gt;&lt;/p&gt;
+
+&lt;p&gt;Au commencement, faire du minage avec un processeur (CPU) était la seule façon de miner des bitcoins. Les cartes graphiques (GPU) ont éventuellement remplacés les CPU en raison de leurs nature qui permettait une augmentation entre 50x à 100x dans la puissance de calcul en utilisant moins d'électricité par megahash comparativement à un CPU.&lt;/p&gt;
+
+&lt;p&gt;Bien que n'importe quel GPU moderne puisse être utilisé pour faire du minage, l'architecture des GPU de marque AMD s'est avérée bien supérieure à nVidia pour miner des bitcoins et la carte ATI Radeon HD 5870 a été la plus économique pendant un temps.&lt;/p&gt;
+
+&lt;p&gt;Pour une liste plus complète des cartes graphiques et de leurs performances, consultez le Wiki Bitcoin: Comparaison du matériel de minage&lt;/p&gt;
+
+&lt;p&gt;De la même manière que la transition CPU vers GPU, le monde du minage a évolué vers l'usage des Field Programmable Gate Arrays (FPGA) comme plateforme de minage. Bien que les FPGAs n'offraient pas une augmentation de &lt;a href="https://en.bitcoin.it/wiki/Why_a_GPU_mines_faster_than_a_CPU"&gt;entre 50x à 100x&lt;/a&gt; de vitesse de calcul comme la transition de CPU à GPU, ils offraient une meilleure efficacité énergétique.&lt;/p&gt;
+
+&lt;p&gt;Une carte graphique typique de 600 MH/s consomme environ 400w d'électricité, tandis qu'un appareil FPGA habituel peut offrir un taux de hash de 826 MH/s à 80w de consommation électrique, un gain de 5x plus de calculs pour la même puissance énergétique. Puisque l'efficacité énergétique est un facteur déterminant dans la profitabilité du minage, il s'agissait d'une étape importante pour la migration de GPU à FPGA pour plusieurs personnes.&lt;/p&gt;
+
+&lt;p&gt;Le monde du minage de bitcoin est maintenant en migration vers les Application Specific Integrated Circuit (ASIC). Un ASIC est une puce conçue spécifiquement afin d'accomplir une seule et unique tâche. Contrairement aux FPGAs, un ASIC ne peut pas être reprogrammé pour effectuer d'autres tâches. Un ASIC conçu pour miner des bitcoins ne peut et ne pourra rien faire d'autre que de miner des bitcoins.&lt;/p&gt;
+
+&lt;p&gt;La rigidité d'un ASIC lui permet d'offrir une augmentation de la puissance de calcul de 100x tout en réduisant la consommation électrique comparativement à toutes les autres technologies. Par exemple, un appareil classique de offre 60 GH/s (1 Gigahash équivaut à 1000 Megahash. 1GH/s = 1000 Mh/s) tout en consommant 60w d'électricité. Comparativement au GPU, il s'agit d'une augmentation de la puissance de calcul de 100x et d'une réduction de la consommation électrique d'un facteur de 7.&lt;/p&gt;
+
+&lt;p&gt;Contrairement aux générations de technologies qui ont précédées l'ASIC, l'ASIC est la "fin de la ligne" lorsqu'on parle de changement de technologie important. Les CPUs ont été remplacés par les GPUs, eux-même remplacés ensuite par les FPGAs qui ont été remplacés par les ASICs.&lt;/p&gt;
+
+&lt;p&gt;Il n'y a rien qui puisse remplacer les ASICs aujourd'hui ou dans un futur immédiat. Il y aura des raffinements technologiques dans les produits ASIC et des améliorations dans l'efficacité énergétique mais rien qui ne corresponde à une augmentation de 50x à 100x de la puissance de calcul ni une réduction de 7x dans la consommation électrique comparativement à la technologie précédente.&lt;/p&gt;
+
+&lt;p&gt;Ce qui signifie que l'efficacité énergétique d'un appareil ASIC est le seul facteur important de tout produit ASIC, puisque la durée de vie estimée d'un appareil ASIC est supérieure à l'histoire entière du minage de bitcoin. Il est concevable qu'un appareil ASIC acheté aujourd'hui soit toujours en opération dans deux ans si l'appareil offre encore une consommation électrique suffisamment économique pour demeurer profitable. La profitabilité du minage est aussi déterminée par la valeur du bitcoin mais dans tous les cas, plus un appareil a une bonne efficacité énergétique, plus il est profitable.&lt;/p&gt;
+
+&lt;h2 id="logiciel"&gt;Logiciel :&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://www.magnetforensics.com/wp-content/uploads/files/bitcoin/iefbitcoin1.png" alt="Qu'est-ce que c'est le minage de bitcoin?"&gt;
+Il y a deux manières de faire du minage : par vous-même ou en faisant partie d'une équipe (un pool). Si vous faites du minage par vous-même, vous devez installer le logiciel Bitcoin et le configurer pour JSON-RPC (voir: Faire fonctionner Bitcoin). L'autre option est de rejoindre un &lt;a href="https://en.bitcoin.it/wiki/Pooled_mining"&gt;pool&lt;/a&gt;. Il y a &lt;a href="https://en.bitcoin.it/wiki/Category:Pool_Operators"&gt;plusieurs pools&lt;/a&gt; disponibles. Avec un pool, le profit généré par n'importe quel bloc généré par un membre de l'équipe est divisé entre tous les membres de l'équipe. L'avantage de rejoindre une équipe est d'augmenter la fréquence et la stabilité des gains (c'est ce qu'on appelle réduire la variance) mais les gains seront inférieurs. Au final, vous gagnerez la même somme avec les deux approches. Miner en solo vous permet de toucher des gains énorme mais très peu fréquents, tandis que miner avec un pool peut vous offrir de petits gains stables et réguliers.&lt;/p&gt;
+
+&lt;p&gt;Une fois que vous avez votre logiciel configuré ou que vous avez rejoint un pool, la prochaine étape est de configurer le logiciel de minage. Le logiciel le plus populare pour GPU/FPGA/ASIC est présentement CGminer ou un dérivé conçu spécifiquement pour les FPGA et les ASICs, BFGMiner.&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez un aperçu rapide du minage sans installer de logiciel, essayez Bitcoin Plus, un mineur de Bitcoin fonctionnant dans votre navigateur avec votre CPU. Ce n'est aucunement profitable pour faire du minage sérieux, mais il s'agit d'une bonne démonstration du principe du minage en équipe.&lt;/p&gt;</content:encoded></item><item><title>Comment Avoir un VPN Payant gratuitement pendant 1 an (€29.95)</title><description>&lt;p&gt;Tout d'abort avant de commencer, j'aimerai vous expliquer en bref c'est quoi le VPN&lt;/p&gt;
+
+&lt;p&gt;Le VPN est une technologie web utilisée pour assurer une certaine sécurité et un certain anonymat sur Internet. &lt;/p&gt;
+
+&lt;p&gt;la société allemande Steganos lance son service &lt;a href="https://store.okayfreedom.com/1234/purl-shop?utm_campaign=OkayFreedom.com&amp;amp;utm_medium=shortlinks&amp;amp;utm_source=unknown&amp;amp;wkz=unknown"&gt;OkayFreedom VPN&lt;/a&gt; simple qui permet aux utilisateurs de naviguer sur Internet&lt;/p&gt;</description><link>http://localhost:2368/comment-avoir-un-vpn-payant-gratuitement-pendant-1-ans/</link><guid isPermaLink="false">804951c2-2813-414f-b8e8-185cbba0e2b0</guid><category>gratuit</category><category>vpn</category><category>freebie</category><category>payant</category><dc:creator>El Mehdi</dc:creator><pubDate>Fri, 18 Mar 2016 17:05:56 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/03/Screen-Shot-2016-03-18-at-17-57-19.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/03/Screen-Shot-2016-03-18-at-17-57-19.png" alt="Comment Avoir un VPN Payant gratuitement pendant 1 an (€29.95)"&gt;&lt;p&gt;Tout d'abort avant de commencer, j'aimerai vous expliquer en bref c'est quoi le VPN&lt;/p&gt;
+
+&lt;p&gt;Le VPN est une technologie web utilisée pour assurer une certaine sécurité et un certain anonymat sur Internet. &lt;/p&gt;
+
+&lt;p&gt;la société allemande Steganos lance son service &lt;a href="https://store.okayfreedom.com/1234/purl-shop?utm_campaign=OkayFreedom.com&amp;amp;utm_medium=shortlinks&amp;amp;utm_source=unknown&amp;amp;wkz=unknown"&gt;OkayFreedom VPN&lt;/a&gt; simple qui permet aux utilisateurs de naviguer sur Internet de manière anonyme par le biais d'une connexion cryptée sûre.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://store.okayfreedom.com/1234/purl-shop?utm_campaign=OkayFreedom.com&amp;amp;utm_medium=shortlinks&amp;amp;utm_source=unknown&amp;amp;wkz=unknown"&gt;OkayFreedom VPN&lt;/a&gt; vous permet créé un VPN entre votre PC et la passerelle de sécurité OkayFreedom de telle sorte que tout le trafic Internet passe par impénétrable tunnel, nontransparent.&lt;/p&gt;
+
+&lt;p&gt;Les serveurs vous représentent sur l'Internet et votre adresse IP réelle est cachée. Vous ne serez plus à vous soucier de quiconque de vérifier vos informations sur le trafic en ligne, le blocage de votre accès à des sites différents au travail, ou d'autres problèmes similaires. &lt;/p&gt;
+
+&lt;p&gt;Même votre fournisseur d'accès Internet ne saura pas ce que vos faites sur le web et il rend également impossible pour lui de bloquer ou de filtrer tout le trafic.&lt;/p&gt;
+
+&lt;p&gt;Click sur les liens dessus pour avoir l'access gratuitement la licence payante pendant 1 an (€29.95):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.elmehdi.mobi/content/images/2016/03/Screen-Shot-2016-03-18-at-17-57-19.png" alt="Comment Avoir un VPN Payant gratuitement pendant 1 an (€29.95)"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;mark&gt;CLICK ICI &lt;/mark&gt;&lt;mark&gt;&gt; &lt;/mark&gt; &lt;a href="http://smarturl.It/FreeVPNPro"&gt;http://smarturl.It/FreeVPNPro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Enjoy :)&lt;/p&gt;</content:encoded></item><item><title>Monétiser vos Dépôts sur GitHub avec Git.market</title><description>&lt;p&gt;Si vous vous trouvez sur cet article, je peux supposer que vous chercher a Monétiser vos dépots &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; ou &lt;a href="https://bitbucket.org/"&gt;Bitbucket&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui ne connaissent pas, &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; est un service de gestion de version utilisé par les développeurs pour collaborer plus facilement sur les projets.&lt;/p&gt;
+
+&lt;p&gt;Dans ce petit article je&lt;/p&gt;</description><link>http://localhost:2368/monetiser-vos-depot-sur-github/</link><guid isPermaLink="false">660e3a74-53b7-4b76-9e71-6fc012ab5402</guid><dc:creator>El Mehdi</dc:creator><pubDate>Sat, 27 Feb 2016 18:55:05 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/02/happy-customer-git.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/02/happy-customer-git.png" alt="Monétiser vos Dépôts sur GitHub avec Git.market"&gt;&lt;p&gt;Si vous vous trouvez sur cet article, je peux supposer que vous chercher a Monétiser vos dépots &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; ou &lt;a href="https://bitbucket.org/"&gt;Bitbucket&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui ne connaissent pas, &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; est un service de gestion de version utilisé par les développeurs pour collaborer plus facilement sur les projets.&lt;/p&gt;
+
+&lt;p&gt;Dans ce petit article je vais vous parler plus précisément du service &lt;a href="https://git.market/"&gt;git.market&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://git.market/"&gt;git.market&lt;/a&gt; c'est un marketplace pour vendre du code avec Git, permettant de vendre vos dépots privé.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://git.market/"&gt;git.market&lt;/a&gt; est un service innovant dont le concept est assez simple: après la mise en ligne d'un : "code/package/snippet/theme/template..." on peut facilement pousser des mises à jour facilement aux acheteurs&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://git.market/assets/img/get-cash.png" alt="Monétiser vos Dépôts sur GitHub avec Git.market"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quelques caractéristiques:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lier votre dépot (à partir de GitHub ou Bitbucket)&lt;/li&gt;
+&lt;li&gt;Options de prix, licence, etc ...&lt;/li&gt;
+&lt;li&gt;Options de paiement avec Stripe&lt;/li&gt;
+&lt;li&gt;Accès privé à votre dépot Git&lt;/li&gt;
+&lt;li&gt;Snipets of any kind&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vos clients seront désormais en mesure de fusionner votre code avec leur propre intégration. De cette façon, ils seront en mesure de rester à jour sans aucune différence!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://git.market/assets/img/github-bitbucket-stripe-logos.png" alt="Monétiser vos Dépôts sur GitHub avec Git.market"&gt;&lt;/p&gt;
+
+&lt;p&gt;je vous invite à y jeter un coup d’œil 😉&lt;/p&gt;</content:encoded></item><item><title>Deco IDE - L'outil indispensable du développeur React Native</title><description>Deco IDE est un Environnement de développement intégré spécialement conçu pour le developpement des applications React Native.</description><link>http://localhost:2368/deco-ide-loutils-indispensable-developpeur-react-native/</link><guid isPermaLink="false">9fa5f2cb-511e-4208-8080-b5da0fe87ca1</guid><category>react native</category><category>deco</category><category>ide</category><category>react js</category><dc:creator>El Mehdi</dc:creator><pubDate>Fri, 26 Feb 2016 12:03:28 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/02/app-screenshot.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/02/app-screenshot.png" alt="Deco IDE - L'outil indispensable du développeur React Native"&gt;&lt;p&gt;&lt;a href="https://www.decosoftware.com/?ref=sK5PJ#download"&gt;Deco IDE&lt;/a&gt; est un IDE (Environnement de développement intégré) spécialement conçu pour la création des applications React Native&lt;/p&gt;
+
+&lt;p&gt;Voila la vidéo de présentation de &lt;strong&gt;Deco IDE&lt;/strong&gt; :  &lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DmZEWOumVIE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://facebook.github.io/react/"&gt;React Native&lt;/a&gt; est un framework frontend qui a été open-sourcée par Facebook mi-2013 et est le fruit d’un travail commun entre les équipes de Facebook et d’Instagram  permettant de générer des composants web au travers d’une API qui se veut simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://getsiphon.com/blog/images/future-of-apps/react-native.png" alt="Deco IDE - L'outil indispensable du développeur React Native"&gt;&lt;/p&gt;
+
+&lt;p&gt;Voila la vidéo de présentation de &lt;strong&gt;React Native&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KVZ-P-ZI6W4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://www.decosoftware.com/?ref=sK5PJ#download"&gt;Deco IDE&lt;/a&gt; vous permet de créer rapidement l'accès aux library React directement deuis l'IDE. il est aussi possible d'obtenir un aperçu via l'emulateur iOS ou Android&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.decosoftware.com/?ref=sK5PJ#download"&gt;Télécharger&lt;/a&gt; &lt;/p&gt;</content:encoded></item><item><title>Mautic - Comment installer l'Outil de Marketing Automatisé gratuit et Open Source</title><description>Pour commencer je vais vous montrer comment installer l'Outil de Marketing Automatisé gratuit sur un serveur Cloud Gratuitement 
+
+</description><link>http://localhost:2368/mautic-comment-installer-loutil-de-marketing-automatise-gratuit-et-open-source/</link><guid isPermaLink="false">1893c04d-6a8b-4af7-b4e1-c79d1e6303fa</guid><category>Tutorial</category><category>mautic</category><category>open source</category><dc:creator>El Mehdi</dc:creator><pubDate>Sat, 20 Feb 2016 14:54:44 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/02/landing_pages.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/02/landing_pages.png" alt="Mautic - Comment installer l'Outil de Marketing Automatisé gratuit et Open Source"&gt;&lt;p&gt;&lt;a href="http://www.mautic.com"&gt;Mautic&lt;/a&gt; c'est l'unique outil de marketing automatisé open source pour vous aider à générer des contacts qualifiés, afin de les convertir en clients.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.mautic.com"&gt;Mautic&lt;/a&gt; vous permet de crée gratuitement : &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lead Management&lt;/li&gt;
+&lt;li&gt;Email Marketing&lt;/li&gt;
+&lt;li&gt;Social Marketing&lt;/li&gt;
+&lt;li&gt;Drip Campaigns&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://www.mautic.com"&gt;Mautic&lt;/a&gt; est également compatible avec de nombreuses applications, comme Amazon S3, Constant Contact, Facebook, Foursquare, Google+, Hubspot, iContact, Instagram, LinkedIn, OpenStack, Rackspace, Sugarcrm, Twitter…&lt;/p&gt;
+
+&lt;h5 id="cestquoiautomationmarketing"&gt;C'est quoi Automation marketing ?&lt;/h5&gt;
+
+&lt;p&gt;Le &lt;a href="https://fr.wikipedia.org/wiki/Marketing_automation"&gt;marketing automation&lt;/a&gt; fait référence à des plateformes logicielles conçues pour automatiser les tâches répétitives et fournir des outils analytiques aux départements marketing (email, social media, website, etc.)&lt;/p&gt;
+
+&lt;p&gt;Le &lt;a href="https://fr.wikipedia.org/wiki/Marketing_automation"&gt;marketing automation&lt;/a&gt; désigne en particulier les techniques et outils permettant d’automatiser les tâches répétitives en déroulant des scénarios marketing préconçus, dans le but de stimuler le prospect dans l’avancement de son processus d’achat.&lt;/p&gt;
+
+&lt;h4 id="mauticvscompetition"&gt;Mautic VS Competition&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.mautic.org/download/"&gt;Mautic&lt;/a&gt; - $0/mois    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fr.marketo.com/logiciel/marketing-automation/tarification/"&gt;Marketo&lt;/a&gt; - $895/mois    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infusionsoft.com/pricing"&gt;InfusionSoft&lt;/a&gt; - $199/mois    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.hubspot.com/pricing/marketing"&gt;Hubspot&lt;/a&gt; - $200/mois    &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pardot.com/pricing/"&gt;Pardot&lt;/a&gt; - $1,000/mois    &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.oracle.com/marketingcloud/products/cross-channel/b2b/pricing.html"&gt;Eloqua&lt;/a&gt; - $2,000/mois&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="mauticorgvsmauticcom"&gt;Mautic.org VS Mautic.com&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="http://www.mautic.com"&gt;Mautic.com&lt;/a&gt; est un site commercial où vous pouvez héberger votre propre Mautic gratuitement, mais avec quelques limitations. Il fonctionne sur la plateforme open source Mautic.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.Mautic.org"&gt;Mautic.org&lt;/a&gt; est l’endroit où vous pouvez saisir votre propre copie outil de marketing automatisé gratuitement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Démarrage:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour commencer je vais vous montrer comment installer mautic sur &lt;a href="https://c9.io/c/HgHdQXO1cba"&gt;Cloud9&lt;/a&gt; gratuitement&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://c9.io/c/HgHdQXO1cba"&gt;Cloud9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Une fois votre compte est activé, on peut commencer le tutoriel&lt;/p&gt;
+
+&lt;p&gt;Télécharger depuis le Zip depuis Mautic.org  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;https://www.mautic.org/download/  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;# start MySQL. Will create an empty database on first start
+$ mysql-ctl start
+
+# stop MySQL
+$ mysql-ctl stop
+
+# run the MySQL interactive shell
+$ mysql-ctl cli
+$ phpmyadmin-ctl install
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;https://www.mautic.org/docs/  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/zMVPI8DaMhk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title>Digital Marketing Glossary</title><description>&lt;p&gt;&lt;strong&gt;Analyse d'audience Internet&lt;/strong&gt; ou &lt;strong&gt;Outils d'analyse d'audience&lt;/strong&gt; : analyse des données générées par l'activité des internautes sur les sites Web ou les applications mobiles, dans le but d'idenfitifer des leviers d'amélioration des sites Web et des campagnes marketing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'utilise des outils d'analyse d'audience pour trouver&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/digital-marketing-glossary/</link><guid isPermaLink="false">90a9c8e4-63c5-44c1-8d7d-cdf693a57810</guid><category>Tutorial</category><category>tips</category><category>marketing</category><dc:creator>El Mehdi</dc:creator><pubDate>Sat, 20 Feb 2016 10:10:46 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/02/JVSII4KCCK.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/02/JVSII4KCCK.jpg" alt="Digital Marketing Glossary"&gt;&lt;p&gt;&lt;strong&gt;Analyse d'audience Internet&lt;/strong&gt; ou &lt;strong&gt;Outils d'analyse d'audience&lt;/strong&gt; : analyse des données générées par l'activité des internautes sur les sites Web ou les applications mobiles, dans le but d'idenfitifer des leviers d'amélioration des sites Web et des campagnes marketing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'utilise des outils d'analyse d'audience pour trouver des idées pour la refonte de mon site Web."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Application :&lt;/strong&gt; programme conçu pour fonctionner sur les smartphones, tablettes et autres appareils mobiles.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Je devais repeindre ma maison, j'ai utilisé une application pour trouver un prestataire fiable près de chez moi."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bannière :&lt;/strong&gt; type de publicité que l'on retrouve sur les pages Web et dans les applications mobiles, généralement sous la forme d'une image.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'utilise des bannières pour attirer de nouveaux clients sur mon site."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Blog :&lt;/strong&gt; site Web mis à jour régulièrement par un individu, généralement caractérisé par l'utilisation d'un langage courant et centré sur un sujet spécifique.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Chaque semaine, je jette un coup d'œil à certains blogs pour suivre les tendances du secteur de la peinture en bâtiment."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Navigateur :&lt;/strong&gt; programme informatique utilisé pour naviguer sur Internet sur un ordinateur, une tablette ou un smartphone. Chrome, Firefox, Internet Explorer et Safari en sont quelques exemples.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Je ne comprends pas pourquoi mon site s'affiche différemment selon le navigateur utilisé."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Taux de clics&lt;/strong&gt; (abrégé en CTR, issu de l'anglais Click­through Rate) : nombre de clics effectués par un internaute sur un élément cible, par exemple une publicité, rapporté au nombre de fois où l'internaute a été exposé à cet élément.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Mon taux de clics sur les annonces concernant la peinture extérieure est de 2 %, mais mon CTR sur les annonces concernant la peinture intérieure est de moins de 1 %."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Contenu :&lt;/strong&gt; matériel numérique mis à disposition des utilisateurs, sous forme de textes, vidéos, fichiers audio, images, etc.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'ajoute des contenus visuels et vidéo à mon site pour le rendre plus attractif."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Conversion&lt;/strong&gt; ou &lt;strong&gt;Objectif&lt;/strong&gt; : l'action que l'on souhaite que les visiteurs réalisent. &lt;/p&gt;
+
+&lt;p&gt;Par exemple, effectuer des achats en ligne, envoyer des formulaires, passer des appels téléphoniques et visionner des vidéos.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Mon principal objectif est d'inciter les internautes à prendre rendez­vous sur mon site pour une consultation, mais s'ils s'abonnent à ma newsletter c'est aussi une conversion."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Optimisation des conversions :&lt;/strong&gt; processus visant à augmenter le pourcentage de visiteurs qui remplissent vos objectifs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Une fois que j'aurai mis en ligne ma nouvelle gamme d'enduits de finition, je me concentrerai sur l'optimisation des conversions."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;* Taux de conversion :&lt;/em&gt;* rapport entre le nombre de conversions et le nombre de visites, souvent utilisé pour évaluer les performances numériques d'un site Web, application mobile ou campagne marketing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Je ne sais pas pourquoi, mais mon taux de conversion sur la peinture extérieure est faible pour les visiteurs masculins."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Coût par clic :&lt;/strong&gt; montant requis pour obtenir un clic sur une publicité en ligne.&lt;/p&gt;
+
+&lt;p&gt;Exemple : "Le coût par clic semble plus élevé le week­end, alors je ne diffuse mes campagnes &lt;br&gt;
+qu'en semaine."&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Robot d'exploration ou Robot :&lt;/strong&gt; programme conçu pour parcourir systématiquement des contenus sur Internet et collecter les informations associées afin d'aider les internautes à trouver ce qu'ils recherchent.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Les robots, ce n'est pas trop mon truc... sauf ceux qui aident mon site à apparaître dans les moteurs de recherche."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ordinateur de bureau :&lt;/strong&gt; appareil non mobile tel qu'un ordinateur fixe ou portable.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "À la maison, je préfère utiliser un ordinateur de bureau, mais lorsque je voyage,
+j'utilise ma tablette."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Commerce électronique :&lt;/strong&gt; vente de produits et services sur Internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Je vais développer mon activité de peinture en bâtiment en me lançant dans le commerce électronique."&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Marketing par e­mail :&lt;/strong&gt; processus consistant à utiliser l'email pour partager des informations et promouvoir des produits et services.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'utilise le marketing par e­mail pour informer mes clients quand je propose des offres spéciales de peinture en bâtiment."
+Page d'accueil : page de présentation ou page "principale" d'un site Web.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Sur ma page d'accueil, les visiteurs peuvent admirer des exemples de maisons
+peintes par mes soins."&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;HTML :&lt;/strong&gt; HyperText Markup Language (langage de balisage hypertexte), un langage utilisé par les développeurs Web pour créer des sites Web.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Mon site est au format HTML." &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Impressions :&lt;/strong&gt; nombre de fois où une publicité s'affiche.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'ai obtenu des milliers d'impressions pour ma nouvelle campagne marketing sur la peinture de cuisines, mais je ne suis pas sûr d'avoir eu des commandes pour l'instant."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Index :&lt;/strong&gt; catalogue de pages Web et de contenus numériques utilisé par un moteur de recherche pour fournir des résultats pertinents.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Quand mon site n'apparaissait pas encore dans l'index du moteur de recherche, les internautes ne le trouvaient pas lorsqu'ils recherchaient des idées de peinture pour leur hall d'entrée."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Mot clé :&lt;/strong&gt; mot (ou expression) saisi dans un moteur de recherche, que les entreprises peuvent cibler dans le cadre de leurs campagnes publicitaires.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Lorsque les internautes recherchent le mot clé 'peintre en bâtiment Toulouse', mon annonce apparaît."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Page de destination :&lt;/strong&gt; la première page qui s'affiche généralement pour un site Web. Il ne s'agit pas nécessairement de la page d'accueil.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'ajoute un coupon de réduction sur ma page de destination pour encourager les visiteurs à faire des achats."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Lien :&lt;/strong&gt; texte ou image qui fournit un lien à partir d'une page ou d'un site Web vers un autre.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Depuis qu'un blog de décoration intérieure reconnu a créé un lien vers mon site, j'ai beaucoup plus de visiteurs."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Appareil mobile :&lt;/strong&gt; appareil portable tel qu'un smartphone ou une tablette, capable de se connecter à Internet et d’exécuter des applications.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Grand­mère a eu une tablette et un smartphone pour son anniversaire. Maintenant, elle utilise les appareils mobiles comme ses petits­enfants."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Résultats de recherche naturels :&lt;/strong&gt; résultats issus d'un moteur de recherche qui ne sont p as des annonces payantes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Si mon site est bien classé dans les résultats de recherche naturels, son trafic augmentera."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Liens commerciaux :&lt;/strong&gt; publicités apparaissant sur les pages de résultats des moteurs de recherche.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'envisage de payer pour faire apparaître mon site dans les liens commerciaux afin d'attirer davantage de clients sur mon site."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Paiement par clic (PPC) :&lt;/strong&gt; système publicitaire dans lequel les annonceurs paient lorsque les utilisateurs cliquent sur leurs publicités.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Je vais utiliser une tarification au paiement par clic pour les annonces dédiées à ma nouvelle gamme d'enduits de finition."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Requête&lt;/strong&gt; ou &lt;strong&gt;Terme de recherche&lt;/strong&gt; : le mot clé ou l'expression qu'un utilisateur saisit dans un moteur de recherche pour trouver ce qu'il recherche.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Lorsque les internautes utilisent le terme de recherche 'coiffeur', ils peuvent être à la recherche de conseils pour se coiffer eux­mêmes ou bien d'une adresse de coiffeur."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Classement :&lt;/strong&gt; positionnement d'un site dans la page de résultats d'un moteur de recherche. Exemple : "À force de persévérance, j'espère améliorer le classement de mon site sur les
+moteurs de recherche pour qu'il soit en première position."&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moteur de recherche :&lt;/strong&gt; outil qui indexe et renvoie des contenus numériques en réponse aux mots clés de l'utilisateur. Google, Bing, Yahoo, DuckDuckGo, Baidu et Yandex sont quelques exemples de moteurs de recherche bien connus.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "J'utilise les moteurs de recherche pour me tenir au courant des dernières tendances de la décoration d'intérieur."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Optimisation du référencement&lt;/strong&gt; (abrégé &lt;strong&gt;SEO&lt;/strong&gt;, issu de l'anglais Search Engine Optimization) : pratique consistant à modifier des pages Web, des contenus et la promotion de ces contenus pour améliorer leur visibilité dans les résultats de recherche naturels, c'est­à­dire gratuits. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Grâce à mon investissement dans le SEO, mon site est remonté dans les résultats des moteurs de recherche."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Liens sponsorisés&lt;/strong&gt; (abrégé SEM, issu de l'anglais Search Engine Marketing) : type de stratégie publicitaire qui permet de définir une enchère pour que votre annonce apparaisse à côté des résultats de recherche correspondant aux mots clés saisis par les internautes. Cela permet aux entreprises d'être vues par les internautes au moment précis où ceux­ci recherchent leur offre de produits ou services.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Le SEO est un processus de longue haleine, mais le SEM m'a permis d'obtenir rapidement bien plus de trafic sur mon site."
+Page de résultats de recherche (abrégé SERP, issu de l'anglais Search Engine Results Page)  : liste de résultats apparaissant dans un moteur de recherche en réponse à la requête de recherche d'un utilisateur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Après avoir recherché 'achat en gros peinture haute brillance', j'ai remarqué que la page de résultats contenait à la fois des résultats de recherche naturels et des liens commerciaux."&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session ou Visite  :&lt;/strong&gt; ensemble des interactions qui se déroulent sur votre site Web dans un intervalle de temps donné. Par exemple, une même session peut contenir plusieurs pages vues et transactions de commerce électronique. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Mon site a enregistré 2 000 visites le mois dernier, mais ce qui m'importe vraiment c'est de savoir si ces visites ont généré des ventes."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Médias sociaux :&lt;/strong&gt; contenus (textes, images, vidéos, etc) créés par des individus et partagés sur Internet.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Les médias sociaux sont en perpétuelle évolution, alors j'ai engagé ma nièce pour qu'elle m'aide à mettre en place une stratégie dédiée aux réseaux sociaux."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Réseau social :&lt;/strong&gt; communauté d'individus qui créent et partagent des contenus.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Je pourrais peut­être présenter mes superbes fresques murales sur les réseaux sociaux pour attirer de nouveaux clients."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Acquisition de trafic :&lt;/strong&gt; processus consistant à attirer des visiteurs, souvent désignés par le terme "trafic", sur des sites Web ou applications mobiles.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Ma stratégie d'acquisition consiste principalement à cibler les personnes qui ont récemment acheté une maison ancienne."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Visiteur unique :&lt;/strong&gt; un individu qui visite un site Web ou application mobile une ou plusieurs fois pendant un intervalle de temps spécifique.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Peu importe combien de fois oncle Jean consulte mon site Web, il sera toujours considéré comme un visiteur unique."&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;URL&lt;/strong&gt; (issu de l'anglais Uniform Resource Locator) ou A dresse Web : adresse unique d'une page ou d'un contenu numérique sur Internet.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exemple :&lt;/strong&gt; "Tante Aline, tu peux accéder à mon site Web en tapant l'URL dans ton navigateur."&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>

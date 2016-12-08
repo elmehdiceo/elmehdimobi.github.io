@@ -1,0 +1,604 @@
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Comment créer mon premier Ghost Blog !</title>
+	<meta name="description" content="Dans ce tutorial je vais vous montrer comment créer votre ghost blog et l'héberger gratuitement">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="alternate" type="application/rss+xml" href="../rss.1">
+	<link rel="shortcut icon" href="../favicon.ico">
+	<link rel="prefetch" href="../index.html">
+
+	<link rel="stylesheet" type="text/css" href="../assets/css/theme.min.css?v=310f67c4d8">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700%7CMontserrat%7CVarela+Round%7COxygen" rel="stylesheet" type="text/css">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<link rel="canonical" href="index.html">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <link rel="amphtml" href="amp/index.html">
+    
+    <meta property="og:site_name" content="El Mehdi LAIDOUNI">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Comment créer mon premier Ghost Blog !">
+    <meta property="og:description" content="Dans ce tutorial je vais vous montrer comment créer votre ghost blog et l'héberger gratuitement">
+    <meta property="og:url" content="http://localhost:2368/comment-creer-mon-premier-ghost-blog/">
+    <meta property="og:image" content="http://localhost:2368/content/images/2016/02/photo-original.jpg">
+    <meta property="article:published_time" content="2016-02-14T16:05:02.000Z">
+    <meta property="article:modified_time" content="2016-12-02T15:21:29.000Z">
+    <meta property="article:tag" content="Tutorial">
+    <meta property="article:tag" content="ghost">
+    <meta property="article:tag" content="blog">
+    <meta property="article:tag" content="installation">
+    
+    <meta property="article:publisher" content="https://www.facebook.com/elmehdiceo">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Comment créer mon premier Ghost Blog !">
+    <meta name="twitter:description" content="Dans ce tutorial je vais vous montrer comment créer votre ghost blog et l'héberger gratuitement">
+    <meta name="twitter:url" content="http://localhost:2368/comment-creer-mon-premier-ghost-blog/">
+    <meta name="twitter:image" content="http://localhost:2368/content/images/2016/02/photo-original.jpg">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="El Mehdi">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="Tutorial, ghost, blog, installation">
+    <meta name="twitter:site" content="@elmehdimobi">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "El Mehdi LAIDOUNI",
+        "logo": "http://localhost:2368/content/images/2016/12/profile.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "El Mehdi",
+        "image": {
+            "@type": "ImageObject",
+            "url": "http://localhost:2368/content/images/2016/12/profile-2.png",
+            "width": 256,
+            "height": 256
+        },
+        "url": "http://localhost:2368/author/elmehdi/",
+        "sameAs": [
+            "http://www.elmehdi.mobi"
+        ],
+        "description": "El Mehdi is an entrepreneur focus on Mobile. He help businesses generate more traffic, leads, and sales from their mobile marketing and advertising. Connect with him on Twitter."
+    },
+    "headline": "Comment créer mon premier Ghost Blog !",
+    "url": "http://localhost:2368/comment-creer-mon-premier-ghost-blog/",
+    "datePublished": "2016-02-14T16:05:02.000Z",
+    "dateModified": "2016-12-02T15:21:29.000Z",
+    "image": "http://localhost:2368/content/images/2016/02/photo-original.jpg",
+    "keywords": "Tutorial, ghost, blog, installation",
+    "description": "Dans ce tutorial je vais vous montrer comment créer votre ghost blog et l&#x27;héberger gratuitement",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://localhost:2368"
+    }
+}
+    </script>
+
+    <script type="text/javascript" src="../shared/ghost-url.js?v=310f67c4d8"></script>
+<script type="text/javascript">
+ghost.init({
+	clientId: "ghost-frontend",
+	clientSecret: "b44559941501"
+});
+</script>
+    <meta name="generator" content="Ghost 0.11">
+    <link rel="alternate" type="application/rss+xml" title="El Mehdi LAIDOUNI" href="../rss.1">
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<meta name="google-site-verification" content="31DBrFfMbYidmSVKP-9cUwgVdSAd_btWzDL926HbFbc">
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56b3b73e9a560504" async="async"></script>
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73315821-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body class="post-template tag-tutorial tag-ghost-tag tag-blog tag-installation ">
+
+	
+	<header class="bloginfo headroom">
+		<div class="title">
+			<a href="../"><img src="../assets/img/logo_alt.png?v=310f67c4d8" class="retina" alt="El Mehdi LAIDOUNI"></a>
+		</div>
+		<nav class="main">
+			
+	<ul class="nav-items">
+			<li class="nav-accueil" role="presentation"><a href="../">Accueil</a></li>
+			<li class="nav--propos" role="presentation"><a href="../me">À propos</a></li>
+			<li class="nav-contactezmoi" role="presentation"><a href="../contact">Contactez-moi</a></li>
+	</ul>
+
+			<ul>
+				<li class="option drawernav"><span class="showdrawer"><i class="fa fa-navicon"></i></span></li>
+			</ul>
+		</nav>
+	</header>
+
+	
+	<section class="drawer">
+		<i class="fa fa-times closedrawer"></i>
+
+		
+	<section class="widget blog_info">
+			<a href="../"><img src="../content/images/2016/12/profile.png" class="retina" alt="El Mehdi LAIDOUNI"></a>
+		<hr>
+	</section>
+		
+		<section class="widget socialshare">
+			<h3 class="widget-title">Partager</h3>
+			<hr>
+			<div class="options">
+				<a href="http://twitter.com/share?text=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog&amp;url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="sharebutton twitter"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+				<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="sharebutton facebook"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+				<a href="https://plus.google.com/share?url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" class="sharebutton google"><i class="fa fa-google-plus"></i><span>Google+</span></a>
+				<a href="http://www.reddit.com/submit?url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/&amp;title=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog" onclick="window.open(this.href, 'reddit-share', 'width=490,height=530');return false;" class="sharebutton reddit"><i class="fa fa-reddit"></i><span>Reddit</span></a>
+				<a href="http://pinterest.com/pin/create/button/?url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/&amp;description=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog" onclick="window.open(this.href, 'pinterest-share', 'width=490,height=530');return false;" class="sharebutton pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a>
+				<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/&amp;title=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog" onclick="window.open(this.href, 'linkedin-share', 'width=490,height=530');return false;" class="sharebutton linkedin"><i class="fa fa-linkedin"></i><span>LinkedIn</span></a>
+			</div>
+		</section>
+		
+	<section class="widget subscribe">
+		<div class="inner">
+			<h3 class="widget-title">Our Newsletter</h3>
+			<hr>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<i class="fa fa-envelope-o"></i>
+
+			<!-- Begin MailChimp Form -->
+			<div id="mc_embed_signup">
+			<form action="http://ecko.us3.list-manage.com/subscribe/post?u=3400c3c16c4c01c737e9aafdf&amp;id=831bd8b0f3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			    <div id="mc_embed_signup_scroll">
+
+			<div class="mc-field-group">
+				<label for="mce-EMAIL">Email Address </label>
+				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+			</div>
+				<div id="mce-responses" class="clear">
+					<div class="response" id="mce-error-response" style="display:none"></div>
+					<div class="response" id="mce-success-response" style="display:none"></div>
+				</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			    <div style="position: absolute; left: -5000px;"><input type="text" name="b_3400c3c16c4c01c737e9aafdf_831bd8b0f3" tabindex="-1" value=""></div>
+			    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+			    </div>
+			</form>
+			</div>
+			<!-- End MailChimp Form -->
+
+		</div>
+	</section>
+		
+	<section class="widget twitter">
+		<h3 class="widget-title">Twitter</h3>
+		<hr>
+
+		<a href="https://twitter.com/elmehdimobi" class="twitter-timeline" data-chrome="nofooter noborders noheader" data-tweet-limit="3"></a>
+		<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		
+	</section>
+		
+	<section class="widget">
+		<h3 class="widget-title">Tags</h3>
+		<hr>
+		<div class="tagcloud">
+			<a href="../tag/tutorial/">Tutorial</a>
+			<a href="../tag/ressources/">Ressources</a>
+			<a href="http://localhost:2368/tag/video/">Video</a>
+		</div>
+	</section>
+
+	</section>
+
+	<main class="pagewrapper">
+
+		
+
+		
+
+		<section class="cover" data-height="100" data-opacity="0.3">
+			<div class="background" style="background-image:url('http://localhost:2368/content/images/2016/02/photo-original.jpg');"></div>
+			
+	<header class="bloginfo transparent">
+		<div class="title">
+				<a href="../"><img src="../content/images/2016/12/profile.png" class="retina" alt="El Mehdi LAIDOUNI"></a>
+		</div>
+		<nav class="main light">
+			
+	<ul class="nav-items">
+			<li class="nav-accueil" role="presentation"><a href="../">Accueil</a></li>
+			<li class="nav--propos" role="presentation"><a href="../me">À propos</a></li>
+			<li class="nav-contactezmoi" role="presentation"><a href="../contact">Contactez-moi</a></li>
+	</ul>
+
+			<ul>
+				<li class="option drawernav"><span class="showdrawer"><i class="fa fa-navicon"></i></span></li>
+			</ul>
+		</nav>
+	</header>
+			<section class="postitem posttitle center wrapper">
+				<ul class="meta">
+						<li class="category"><a href="../tag/tutorial/">Tutorial</a></li>
+						<li class="category"><a href="../tag/ghost-tag/">ghost</a></li>
+						<li class="category"><a href="../tag/blog/">blog</a></li>
+						<li class="category"><a href="../tag/installation/">installation</a></li>
+					<li class="date"><a href="index.html"><time datetime="2016-02-14">February 14th, 2016</time></a></li>
+				</ul>
+				<h1 class="title">Comment créer mon premier Ghost Blog</h1>
+				<p class="excerpt"></p>
+					<a href="../author/elmehdi/" class="author"><img src="../content/images/2016/12/profile-2.png" alt="El Mehdi">El Mehdi</a>
+			</section>
+			<div class="mouse">
+				<div class="scroll"></div>
+			</div>
+		</section>
+
+
+		<section class="postcontents wrapper">
+			<h2 id="commentcrermonpremierghostblog">Comment créer mon premier Ghost Blog !</h2>
+
+<p>je ne sais pas si vous avez déjà entendu parler de la nouvelle plateforme de blogging 100% destiné au blogging lancé par <a href="https://twitter.com/JohnONolan">John O'Nolan</a></p>
+
+<p><a href="https://ghost.org/">Ghost</a> est open source ecrit en Javascript et distribué sous licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a>, Le 29 avril 2013, O'Nolan publie une vidéo du prototype lors d'une campagne de financement participatif sur <a href="https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform">Kickstarter</a> avec un objectif de 25 000 £ pour financer le développement du projet</p>
+
+<p>Techniquement, il est codé en <a href="https://nodejs.org/en/">Node.js</a> et peut utiliser plusieurs moteurs de base de données SQL : MySQL, Postgres ou SQLLite. </p>
+
+<p>Ghost est open source disponible en telechargement sur <a href="https://github.com/tryghost/Ghost">GitHub</a>, de plus autour l'on trouve une communauté très active  </p>
+
+<h2 id="questcequenodejs"># Qu'est-ce que Node.js? :</h2>
+
+<p><img src="https://nodejs.org/static/images/logos/nodejs.png" alt="image description"></p>
+
+<p><a href="https://nodejs.org/en/">Node.js</a> est une plateforme moderne pour créer des applications web rapides, évolutives et efficaces. Ces 20 dernières années, le web a évolué, en partant d'une collection d'images statiques pour aller vers une plateforme capable de supporter des applications web complexes comme Gmail et Facebook. Javascript est le langage de programmation qui a permis ce progrès.</p>
+
+<h2 id="dmarrage"># Démarrage</h2>
+
+<p>Vous allez avoir besoin d'un hébergement qui dispose déjà ou vous permet d'installer <a href="https://nodejs.org/en/">Node.js</a>. C'est à dire quelque chose comme une instance ou n'importe quel autre hébergement disposant d'un accès <a href="https://fr.wikipedia.org/wiki/Secure_Shell">SSH</a> et qui vous permet d'installer <a href="https://nodejs.org/en/">Node.js</a>. Il en existe beaucoup et ils peuvent être peu chers.</p>
+
+<p>Ce qui ne fonctionnera pas pour le moment, ce sont les hébergements mutualisés dans le style cPanel, qui sont habituellement spécifiques à l'hébergement de fichiers PHP. Malgré tout, certains de ces hébergements offrent déjà Ruby, et sont donc susceptibles d'offrir Node.js dans un futur proche.</p>
+
+<p>Il y a plusieurs options pour installer simplement Ghost via des installateurs:</p>
+
+<ul>
+<li><a href="https://ghost.org/pricing/">Ghost(Pro) ($10/mois)</a></li>
+<li><a href="https://www.digitalocean.com/pricing/">DigitalOcean ($5/mois)</a></li>
+<li><a href="https://aws.amazon.com/fr/free/">Amazon - (gratuit la première année)</a></li>
+<li><a href="https://azure.microsoft.com/fr-fr/pricing/details/app-service/">Windows Azure - (gratuit pour une instance F1) </a></li>
+<li><a href="https://www.rackspace.com/">Rackspace - ($16/mois)</a></li>
+<li><a href="https://www.openshift.com/pricing/index.html">Openshift - (gratuit pour 3 web applications) </a></li>
+<li><a href="http://www.servermule.com.au/vps-hosting/">Servermule - ($10/mois)</a></li>
+<li><a href="https://www.citycloud.com/pricing/">Citycloud - ($20/mois)</a></li>
+</ul>
+
+<h3 id="paramtrage">Paramétrage</h3>
+
+<p>Pour installer <a href="https://nodejs.org/en/">Node.js</a> et <a href="https://github.com/tryghost/Ghost">Ghost</a> sur votre Mac, vous devez tout d'abord ouvrir un terminal. Vous pouvez en obtenir un en ouvrant la recherche rapide en tappant "Terminal".</p>
+
+<p><img src="http://i.imgur.com/GUDeIBV.png" alt="image description"></p>
+
+<h3 id="installernodejs">Installer Node JS</h3>
+
+<ul>
+<li>Sur <a href="http://nodejs.org">http://nodejs.org</a> cliquez sur install, un fichier '.pkg' va être téléchargé</li>
+<li>Une fois téléchargé, cliquez dessus pour ouvrir l'installeur, cela va installer node et npm</li>
+<li>Entrez votre mot de passe et cliquez sur 'installer le logiciel'</li>
+<li>Une fois l'installation terminée, allez sur le terminal et tappez echo <strong>$PATH</strong> pour verifier que (<strong>/usr/local/bin/</strong>) est référencé dans le path</li>
+</ul>
+
+<blockquote>
+  <p><strong>Note:</strong> Si '/usr/local/bin' n'apparaît pas dans la variable d'environnement $PATH, visitez <a href="http://docs.ghost.org/fr/installation/mac/#export-path">la page</a> de résolution des problèmes pour trouver une façon de corriger ça</p>
+</blockquote>
+
+<h3 id="crationduncompteopenshift">Création d’un compte OpenShift</h3>
+
+<p><a href="https://www.openshift.com/app/account/new">Openshift</a> est une solution Cloud PaaS (Platform as a Service) produite par Red Hat. L’offre est gratuite pour trois « gears » (un gears équivaut à une application) et elle n’est pas limité à Node.js. Vous pouvez installer des environnements Java, PHP, Python, Ruby, Perl et Go.</p>
+
+<p>Maintenant, on doit crée un compte OpenShift, pour cela rendez-vous sur <a href="https://www.openshift.com/app/account/new">le site officiel</a> et choisissez l’offre Online. Remplissez les champs demandés, cliquez sur le lien de vérification dans l’e-mail de confirmation, puis accepter les conditions d’utilisation.</p>
+
+<p><img src="http://i.imgur.com/rBdsEM8.png" alt="image description"></p>
+
+<h3 id="crationdenotrepremireapplication">Création de notre premiére application</h3>
+
+<p>En suite on va crée notre premiere application sur OpenShift pour déployer notre Ghost blog :</p>
+
+<p><img src="http://i.imgur.com/IJppV2W.png" alt="image description">
+<img src="https://i.imgur.com/jN3X51a.png" alt="image description"></p>
+
+<p>Comme indiqué sur ce screenshot, on va choisir le nom de votre blog suivie de votre utilisateur, pour moi ca sera <strong>«monblog»</strong> et <strong>«elmehdi»</strong> :</p>
+
+<p><img src="http://i.imgur.com/9T4W6SI.png" alt="image description"></p>
+
+<p>Pour ma part, je vais choisir <a href="https://fr.wikipedia.org/wiki/PostgreSQL">PostgreSQL</a> comme base de donne et pour la region je vais choisir <strong>aws-us-east-1</strong> <br>
+<img src="http://i.imgur.com/bOKOOlC.png" alt="image description"></p>
+
+<p>En suite au bout de quelque minutes notre ghost blog sera pret a utuliser:</p>
+
+<p><img src="http://i.imgur.com/foZLl9e.png" alt="image description"></p>
+
+<p>Une fois notre blog est creee, on doit allez configuer l'administration de notre blog en ajoutant (Votre Blog URL/Ghost)</p>
+
+<p><strong>Exemple:</strong></p>
+
+<pre><code>http://monblog-elmehdi.rhcloud.com/ghost  
+</code></pre>
+
+<p><img src="http://i.imgur.com/H636KrQ.png" alt="image description">
+<img src="http://i.imgur.com/jWwByXN.png" alt="image description"></p>
+
+<p>Et Voila notre ghost blog est créé, maintenant on va voir comment en peut changer le theme et la personnalisation de votre nom de domaine, pour se faire il nous faut installer Git et Ruby sur notre ordinateur si ce n’est pas déja fait pour qu'on puisse installer le clients openshift.</p>
+
+<h4 id="pourtesterruby">Pour tester Ruby :</h4>
+
+<pre><code>ruby -e 'puts "Welcome to Ruby"'  
+</code></pre>
+
+<h4 id="pourtestergit">Pour tester Git :</h4>
+
+<pre><code>git --version  
+</code></pre>
+
+<h4 id="pourinstallernodejs">Pour installer Node.js :</h4>
+
+<pre><code>https://nodejs.org/en/  
+</code></pre>
+
+<h4 id="pourinstallergit">Pour installer Git :</h4>
+
+<pre><code>sudo apt-get update  
+sudo apt-get install git rubygems  
+</code></pre>
+
+<h4 id="pourinstallerloutilopenshift">Pour installer l’outil Openshift :</h4>
+
+<pre><code>sudo gem install rhc  
+sudo gem update rhc  
+</code></pre>
+
+<p>Une fois installé, on va configurer l’outil avec votre compte OpenShift :</p>
+
+<pre><code>rhc setup -l votre@email.com  
+</code></pre>
+
+<pre><code>Entrer et puis mettez votre Mots de passe Openshift  
+</code></pre>
+
+<p>en suite on va creer un dossier ou on va cloner notre ghost blog sur notre ordinateur pour ajouter ou modifer notre blog</p>
+
+<h4 id="crenotreclfssh">Crée notre cléf SSH</h4>
+
+<pre><code>rhc ssh &lt;nom de votre blog&gt;  
+</code></pre>
+
+<p>Exemple: </p>
+
+<pre><code>rhc ssh monblog  
+</code></pre>
+
+<pre><code>rhc set-env NODE_ENV=production --&lt;nom de votre blog&gt;  
+</code></pre>
+
+<pre><code>rhc app restart  
+</code></pre>
+
+<p><img src="http://i.imgur.com/owISvdI.png" alt="image description"></p>
+
+<h4 id="ajoutermonnomdedomaine">Ajouter mon nom de domaine</h4>
+
+<p>Maintenant je vais ajouter mon nom de domaine personnel, pour se faire cliquez sur l’onglet Settings, remplissez le champ Domain name.</p>
+
+<p><img src="https://i.imgur.com/7wK1Z9i.png" alt="image description"></p>
+
+<h3 id="clonernotredptexistant">Cloner notre dépôt existant</h3>
+
+<pre><code>git clone ssh://56bf536789f5cf221900017e@monblog-elmehdi.rhcloud.com/~/git/monblog.git/  
+</code></pre>
+
+<pre><code>cd monblog  
+</code></pre>
+
+<p>Dans cette etape, on va ajouter notre theme et en meme temps <br>
+configurer notre fichier <strong>config.js</strong> pour ajouter notre variable.</p>
+
+<p>on commence par localiser notre dépôt et puis ouvrir le fichier config.js dans votre editeur pour changer la variable actuel par la nouvelle qui va forcer a utuliser notre alias </p>
+
+<p><img src="http://i.imgur.com/OuuDi0A.png" alt="image description"></p>
+
+<pre><code>http://'+process.env.OPENSHIFT_APP_DNS  
+</code></pre>
+
+<p>à</p>
+
+<pre><code>http://'+process.env.OPENSHIFT_APP_DNS_ALIAS  
+</code></pre>
+
+<p>Maintenant on va choisir le theme pour notre blog, il exite des themes gratuits et d'autres payants, pour mon cas je vais choisir un theme gratuit, je vous laisse quelque liens pour choisir le theme de votre choix :</p>
+
+<ul>
+<li><a href="http://marketplace.ghost.org/themes/free/">http://marketplace.ghost.org/themes/free/</a></li>
+<li><a href="http://www.allghostthemes.com/tag/free/">http://www.allghostthemes.com/tag/free/</a></li>
+<li><a href="https://www.gavick.com/free-ghost-themes">https://www.gavick.com/free-ghost-themes</a></li>
+</ul>
+
+<p>Une fois vous avez fait votre choix, vous devez ajouter votre theme au dossier dépôt <strong>/content/themes/</strong></p>
+
+<h3 id="ajouterunevariablesdenvironnements">Ajouter une variables d’environnements</h3>
+
+<p>Maintenant on va ajouter notre variable pour que l'environnement pointe vers mon domaine:  </p>
+
+<pre><code>rhc set-env OPENSHIFT_APP_DNS_ALIAS=www.elmehdi.mobi -a monblog.  
+</code></pre>
+
+<h3 id="dployernotreghostblog">Déployer notre Ghost Blog</h3>
+
+<p>Une fois le projet prêt, nous pouvons le déployer et pour se faire on aura besoin des commandes suivantes:  </p>
+
+<pre><code>git add -A  
+</code></pre>
+
+<pre><code>git commit -m "Ajouter notre Theme"  
+</code></pre>
+
+<pre><code>git push origin master  
+</code></pre>
+
+<pre><code>rhc app restart monapp  
+</code></pre>
+
+<p>Voilà les étapes que j'ai suivie pour créer mon premier Ghost Blog et l'heberger gratuitement, J'espère que ce nouveau tuto vous a plu et n'hesiter pas a me poser vos question sur twitter.</p>
+
+<p>ElMehdi <a href="https://twitter.com/ElMehdiMobi">@ElMehdiMobi</a></p>
+
+<h3 id="reference">Reference</h3>
+
+<ul>
+<li><a href="https://developers.openshift.com/en/getting-started-osx.html">developers.openshift.com</a></li>
+<li><a href="http://docs.ghost.org/fr/">docs.ghost.org</a></li>
+</ul>
+		</section>
+
+		
+	<section class="postbottom wrapper">
+		<div class="info">
+			<div class="tags">
+					<a class="tag Tutorial" href="../tag/tutorial/">Tutorial</a>
+					<a class="tag ghost" href="../tag/ghost-tag/">ghost</a>
+					<a class="tag blog" href="../tag/blog/">blog</a>
+					<a class="tag installation" href="../tag/installation/">installation</a>
+			</div>
+			<div class="categories">
+					<a class="category Tutorial" href="../tag/tutorial/">Tutorial</a>
+					<a class="category ghost" href="../tag/ghost-tag/">ghost</a>
+					<a class="category blog" href="../tag/blog/">blog</a>
+					<a class="category installation" href="../tag/installation/">installation</a>
+			</div>
+		</div>
+		<div class="shareoptions">
+			<a href="index.html" class="permalink">Permalink: http://localhost:2368/comment-creer-mon-premier-ghost-blog/</a>
+			<ul class="sharebuttons">
+				<li>Partager:</li>
+				<li><a href="http://twitter.com/share?text=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog&amp;url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="socialdark twitter"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="socialdark facebook"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="https://plus.google.com/share?url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" class="socialdark google"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="mailto:?body=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" class="socialdark email"><i class="fa fa-envelope"></i></a></li>
+			</ul>
+		</div>
+	</section>
+		
+		
+		<section class="widget authorprofile">
+			<div class="wrapper">
+				<div class="info">
+						<a href="../author/elmehdi/" class="profile gravatar"><img src="../content/images/2016/12/profile-2.png" alt="El Mehdi"></a>
+					<div class="meta">
+						<span class="title">À PROPOS</span>
+						<h3><a href="../author/elmehdi/">El Mehdi</a></h3>
+					</div>
+				</div>
+					<p>El Mehdi is an entrepreneur focus on Mobile. He help businesses generate more traffic, leads, and sales from their mobile marketing and advertising. Connect with him on Twitter.</p>
+			</div>
+		</section>
+
+		
+	<section class="comments">
+		<section id="comments" class="commentheader">
+			<div class="wrapper">
+				<i class="fa fa-comments-o"></i>
+				<span class="commenttitle">Commentaires</span>
+			</div>
+		</section>
+		<section class="commentitems">
+			<div class="wrapper">
+				<div id="disqus_thread"></div>
+			</div>
+		</section>
+	</section>
+
+
+
+		
+	<footer class="main">
+		
+	<section class="widget copyright">
+		<p class="main">
+			Copyright © <a href="../">El Mehdi LAIDOUNI</a>. 2016 • All rights reserved.
+		</p>
+		<p class="alt">
+		</p>
+	</section>
+		<ul class="social">
+
+			<li><a href="https://twitter.com/ElMehdiMobi" target="_blank" class="twitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+			<li><a href="https://www.facebook.com/ElMehdiCEO" target="_blank" class="facebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCRV86HkxxSGI-whauOMkQdw" target="_blank" class="youtube" title="YouTube"><i class="fa fa-youtube"></i></a></li>
+			<li><a href="https://fr.linkedin.com/in/mlaidouni" target="_blank" class="linkedin" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+			<li><a href="https://github.com/elmehdimobi" target="_blank" class="github" title="GitHub"><i class="fa fa-github"></i></a></li>
+            <li><a href="https://medium.com/@ElMehdiMobi" target="_blank" class="medium" title="Medium"><i class="fa fa-medium"></i></a></li>
+			<li><a href="../rss.1" target="_blank" class="rss" title="RSS"><i class="fa fa-rss"></i></a></li>
+
+
+		</ul>
+	</footer>
+
+	</main>
+
+		
+		<footer class="postinfo">
+			<div class="default">
+				<section class="socialoptions">
+					<ul class="sharebuttons">
+						<li><a href="http://twitter.com/share?text=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog&amp;url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="socialdark twitter"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="socialdark facebook"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://plus.google.com/share?url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" class="socialdark google"><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/&amp;title=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog" onclick="window.open(this.href, 'linkedin-share', 'width=490,height=530');return false;" class="socialdark linkedin"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="http://pinterest.com/pin/create/button/?url=http://localhost:2368/comment-creer-mon-premier-ghost-blog/&amp;description=Comment%20cr%C3%A9er%20mon%20premier%20Ghost%20Blog" onclick="window.open(this.href, 'pinterest-share', 'width=490,height=530');return false;" class="socialdark pinterest"><i class="fa fa-pinterest"></i></a></li>
+						<li><a href="mailto:?body=http://localhost:2368/comment-creer-mon-premier-ghost-blog/" class="socialdark email"><i class="fa fa-envelope"></i></a></li>
+						<li><span class="socialdark closeshare"><i class="fa fa-times"></i></span></li>
+					</ul>
+				</section>
+				<section class="authorinfo">
+					<a href="../author/elmehdi/" class="authorname"><img src="../content/images/2016/12/profile-2.png" class="gravatar" alt="El Mehdi"> El Mehdi</a>
+					<span class="authordate">Posté le February 14th, 2016</span>
+				</section>
+				<ul class="postoptions">
+					<li class="showcomments"><i class="fa fa-comments-o"></i>Commentaires</li>
+					<li class="showsocial"><i class="fa fa-bookmark-o"></i>Partager</li>
+				</ul>
+			</div>
+			<div class="relatedposts">
+				<span class="backtotop"><i class="fa fa-chevron-up"></i></span>
+					<a href="../ressources-pour-developpeur-mobile/" class="nextpost">
+						<img src="http://localhost:2368/content/images/2016/02/iOS-tab-bar---toolbar-icons.jpeg" alt="Liste des ressources libre de droits pour Web &amp; Mobile développeur">
+						<div class="info">
+							<span>ARTICLE SUIVANT</span>
+							<span class="title">Liste des ressources libre de droits pour Web &amp; Mobile développeur</span>
+						</div>
+					</a>
+			</div>
+		</footer>
+
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script async type="text/javascript" src="../assets/js/theme.min.js?v=310f67c4d8"></script>
+
+	
+</body>
